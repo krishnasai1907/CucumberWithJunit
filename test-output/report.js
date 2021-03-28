@@ -143,14 +143,14 @@ formatter.match({
   "location": "LoginPage.user_enters_the_Url(String)"
 });
 formatter.result({
-  "duration": 24485901900,
+  "duration": 15639083100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPage.user_landed_on_webpage()"
 });
 formatter.result({
-  "duration": 1519462100,
+  "duration": 125784000,
   "status": "passed"
 });
 formatter.match({
@@ -167,28 +167,28 @@ formatter.match({
   "location": "LoginPage.user_enter_the_and(String,String)"
 });
 formatter.result({
-  "duration": 7320074900,
+  "duration": 1650324000,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePage.User_clickonsubmitbutton()"
 });
 formatter.result({
-  "duration": 8203687300,
+  "duration": 5527163400,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePage.User_landed_on_home_page()"
 });
 formatter.result({
-  "duration": 1176322300,
+  "duration": 1082095800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPage.userclosethebrowser()"
 });
 formatter.result({
-  "duration": 352032700,
+  "duration": 150670500,
   "status": "passed"
 });
 });

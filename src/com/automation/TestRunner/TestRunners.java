@@ -7,7 +7,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "C:\\Users\\Krishna\\OneDrive\\Desktop\\MyData\\Features"
+		features = ".\\Features"
 		,glue={"com.automation.StepDefs"}
 		,tags="@tag",plugin={"pretty","html:test-output"})
 public class TestRunners 
