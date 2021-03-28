@@ -1,0 +1,16 @@
+2021-03-10 19:51:11,624 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:First:0.0.1-SNAPSHOT @ C:\Users\Krishna\OneDrive\Desktop\MyData\pom.xml.
+2021-03-10 19:51:21,770 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /First/src/main/java because it overlaps with /First/src
+2021-03-10 19:51:21,771 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /First/src/test/java because it overlaps with /First/src
+2021-03-10 19:51:22,037 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 29 sec
+2021-03-10 19:51:23,838 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-10 19:51:23,840 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Krishna\OneDrive\Desktop\MyData\src\main\resources
+2021-03-10 19:51:23,844 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-10 19:51:23,845 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Krishna\OneDrive\Desktop\MyData\src\test\resources
+2021-03-10 19:51:44,936 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-10 19:51:44,937 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Krishna\OneDrive\Desktop\MyData\src\main\resources
+2021-03-10 19:51:44,939 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-10 19:51:44,939 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Krishna\OneDrive\Desktop\MyData\src\test\resources
+2021-03-10 19:52:00,728 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-10 19:52:00,733 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Krishna\OneDrive\Desktop\MyData\src\main\resources
+2021-03-10 19:52:00,735 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-10 19:52:00,735 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Krishna\OneDrive\Desktop\MyData\src\test\resources

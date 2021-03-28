@@ -1,0 +1,115 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 15,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "to-test-the-data;title-of-your-scenario;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 243913000,
+              "error_message": "java.lang.NullPointerException\r\n\tat com.automation.StepDefs.LoginPage.user_enters_the_Url(LoginPage.java:38)\r\n\tat ✽.Given User enters the Url \"https://opensource-demo.orangehrmlive.com/\"(First.feature:7)\r\n",
+              "status": "failed"
+            },
+            "line": 7,
+            "name": "User enters the Url \"https://opensource-demo.orangehrmlive.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://opensource-demo.orangehrmlive.com/",
+                  "offset": 21
+                }
+              ],
+              "location": "LoginPage.user_enters_the_Url(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User landed on webpage",
+            "match": {
+              "location": "LoginPage.user_landed_on_webpage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "User enter the \"admin\" and \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "admin",
+                  "offset": 16
+                },
+                {
+                  "val": "admin123",
+                  "offset": 28
+                }
+              ],
+              "location": "LoginPage.user_enter_the_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "User click on submit button",
+            "match": {
+              "location": "HomePage.User_clickonsubmitbutton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "User landed on home page",
+            "match": {
+              "location": "HomePage.User_landed_on_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag"
+          },
+          {
+            "line": 5,
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "To test the data",
+    "description": "\r\nI want to use this template for my feature file",
+    "id": "to-test-the-data",
+    "keyword": "Feature",
+    "uri": "First.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tag"
+      }
+    ]
+  }
+]
